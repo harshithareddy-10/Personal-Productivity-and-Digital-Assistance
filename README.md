@@ -1,1 +1,1 @@
-# Personal-Productivity-and-Digital-Assistance
+# Personal AI Companion Chatbo
